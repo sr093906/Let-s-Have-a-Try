@@ -1,2 +1,9 @@
 # Let-s-Have-a-Try
-Play a Game
+
+Credits:
+
+https://hosts.oisd.nl/basic/
+
+https://tranco-list.eu/
+
+
