@@ -1694,7 +1694,6 @@
 ||*.crwdcntrl.net^
 ||*.crypto-pool.fr^
 ||*.cryptoads.space^
-||*.cryptocoinsad.com^
 ||*.cs-cart.jp^
 ||*.csdata1.com^
 ||*.cshi.ru^
@@ -2463,7 +2462,6 @@
 ||*.graceofnoon.com^
 ||*.grafpedia.com^
 ||*.grafthivecrocus.cam^
-||*.graizoah.com^
 ||*.grandcasinobell.com^
 ||*.granify.com^
 ||*.grapeshot.co.uk^
@@ -2533,7 +2531,6 @@
 ||*.harrenmedianetwork.com^
 ||*.hartalltunker.com^
 ||*.hasdrs.com^
-||*.hashnest.com^
 ||*.hashvault.pro^
 ||*.hasmobi.net^
 ||*.havasedge.com^
@@ -4700,7 +4697,6 @@
 ||*.searchmagnified.com^
 ||*.searchmarketing.com^
 ||*.searchmulty.com^
-||*.searchsecurer.com^
 ||*.searchtabnew.com^
 ||*.secretturtle.com^
 ||*.secureaddisplay.com^
@@ -5275,7 +5271,6 @@
 ||*.topadvert.ru^
 ||*.topblockchainsolutions.nl^
 ||*.topblogarea.com^
-||*.topflownews.com^
 ||*.topgamesites.net^
 ||*.toplist.cz^
 ||*.toplist.sk^
@@ -7744,7 +7739,6 @@
 ||crwdcntrl.net$third-party
 ||crypto-pool.fr$third-party
 ||cryptoads.space$third-party
-||cryptocoinsad.com$third-party
 ||cs-cart.jp$third-party
 ||csdata1.com$third-party
 ||cshi.ru$third-party
@@ -8514,7 +8508,6 @@
 ||graceofnoon.com$third-party
 ||grafpedia.com$third-party
 ||grafthivecrocus.cam$third-party
-||graizoah.com$third-party
 ||grandcasinobell.com$third-party
 ||granify.com$third-party
 ||grapeshot.co.uk$third-party
@@ -8584,7 +8577,6 @@
 ||harrenmedianetwork.com$third-party
 ||hartalltunker.com$third-party
 ||hasdrs.com$third-party
-||hashnest.com$third-party
 ||hashvault.pro$third-party
 ||hasmobi.net$third-party
 ||havasedge.com$third-party
@@ -10753,7 +10745,6 @@
 ||searchmagnified.com$third-party
 ||searchmarketing.com$third-party
 ||searchmulty.com$third-party
-||searchsecurer.com$third-party
 ||searchtabnew.com$third-party
 ||secretturtle.com$third-party
 ||secureaddisplay.com$third-party
@@ -11329,7 +11320,6 @@
 ||topadvert.ru$third-party
 ||topblockchainsolutions.nl$third-party
 ||topblogarea.com$third-party
-||topflownews.com$third-party
 ||topgamesites.net$third-party
 ||toplist.cz$third-party
 ||toplist.sk$third-party
